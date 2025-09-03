@@ -372,11 +372,11 @@ class CastleGraphBuilder:
 
 def _demo():
     sample = """\
-🧱🧱🧱🧱🧱
-🧱 🤴 👸 🧱
-🧱   🤹  🧱
-🧱  🛡️  🧱
-🧱🧱🧱🧱🧱
+🧱🧱🧱🧱🧱🧱
+🧱 🤴 👸   🧱
+🧱   🤹    🧱
+🧱  🛡️     🧱
+🧱🧱🧱🧱🧱🧱
 JESTER DANCES WITH ALL
 KING DOES NOT DANCE WITH QUEEN
 """
