@@ -1,13 +1,17 @@
+R = 7
 🧱🧱🧱🧱🧱🧱🧱🧱🏰🧱🧱🧱🧱🧱🧱	🧱
-🧱   🤴        👸     🤹   		🧱
-🧱        🛡️   👩‍🍳         			🧱
-🧱   🤴         👸          		🧱
-🧱     🤴   👸      ⚔️       		🧱
-🧱   ⚔️        ⚔️           	 	🧱
-🧱                           		🧱
-🧱                          		🧱
+🧱		🤴		👸		🤹			🧱
+🧱			🛡️	👩‍🍳					🧱
+🧱	🤴						👸		🧱
+🧱		🤴			👸      ⚔️		🧱
+🧱				⚔️					🧱
+🧱	⚔️						👑		🧱
+🧱					👰🏿‍♀				🧱
 🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱🧱
 JESTER DANCES WITH ALL
+FLOWER ONLY DANCES WITH JESTER
+UNICORN CONNECTS TO ALL AND DANCES WITH ANY
 KING DOES NOT DANCE WITH QUEEN
+KING DOES NOT DANCE WITH CHAMPION_KNIGHT
 QUEEN DOES NOT DANCE WITH PRINCESS
-CHIEF DOES NOT DANCE WITH BOURGEOISIE
+CAPTAIN_OF_THE_GUARD DOES NOT DANCE WITH VILLAGER

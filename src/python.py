@@ -365,6 +365,9 @@ class CastleGraphBuilder:
         idx = {p["id"]: i for i, p in enumerate(persons)}
         return AdjacencyMatrix(adj, nodes, roles, positions, idx)
 
+                                                                  
+
+
 
 # ---------------------------
 # Minimal CLI demo
